@@ -1,0 +1,17 @@
+#Justin Hanlon
+#9/13/2020
+#Python Project 1
+#Preparing for Exploratory Data Analysis
+print("Hello World! I wonder why that is always the default coding text to start with")
+print(9+9)
+print(9-1)
+print(9*9)
+print(9/9)
+print("This is my " + "concatenation")
+List = ["one", "two", 3, 4]
+print(List)
+w = "five"
+List.append(w)
+print(List)
+x = (1,2,"three",'four')
+print(x)
